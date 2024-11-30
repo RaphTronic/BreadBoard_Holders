@@ -2,7 +2,7 @@
 
 Holders for solderless breadboards to tidy up one's development bench !
 
-Snap together via dovetails and locating bumps.
+They hold together via dovetails and snapping bumps.
 
 Details and instructions in this blog post: https://raphtronic.blogspot.com/2024/11/diy-modular-breadboard-holders.html
 
