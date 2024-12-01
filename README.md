@@ -8,6 +8,10 @@ Details and instructions in this blog post: https://raphtronic.blogspot.com/2024
 
 Happy and neat breadboarding to all !
 
+![20241130_155018 crop](https://github.com/user-attachments/assets/9cf7740b-ed1a-4600-b2c9-9ac32f500934)
+
+![20241130_155309 crop](https://github.com/user-attachments/assets/58f10bf5-6549-49c2-92fd-7f38d7b922a8)
+
 ![breadboard print plates](https://github.com/user-attachments/assets/1abb6d3a-201c-4eb3-b9b3-1805d2403ef8)
 
-![instrumentation panel](https://github.com/user-attachments/assets/ee74dee2-ffcc-4439-8440-ba112ede6ac5)
+![instrumentation panel 2](https://github.com/user-attachments/assets/f3134da2-54b4-48f3-b41b-5520c19223fc)
