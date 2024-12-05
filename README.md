@@ -6,6 +6,8 @@ They hold together via dovetails and snapping bumps.
 
 Details and instructions in this blog post: https://raphtronic.blogspot.com/2024/11/diy-modular-breadboard-holders.html
 
+Feel free to copy / remix / whatever.
+
 Happy and neat breadboarding to all !
 
 ![20241130_155018 crop](https://github.com/user-attachments/assets/9cf7740b-ed1a-4600-b2c9-9ac32f500934)
