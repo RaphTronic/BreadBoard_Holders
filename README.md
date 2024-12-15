@@ -17,3 +17,5 @@ Happy and neat breadboarding to all !
 ![breadboard print plates](https://github.com/user-attachments/assets/1abb6d3a-201c-4eb3-b9b3-1805d2403ef8)
 
 ![instrumentation panel 2](https://github.com/user-attachments/assets/f3134da2-54b4-48f3-b41b-5520c19223fc)
+
+![surface boards](https://github.com/user-attachments/assets/92a773e6-fa6d-476f-b443-fdcc5c4e3d5b)
